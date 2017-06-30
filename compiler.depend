@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1491270760 source:e:\codeblocks\compiler\main.c
+	<stdio.h>
+
+1491270787 source:e:\codeblocks\compiler\yylex.c
+
+1491797737 source:e:\codeblocks\compiler\index2.tab.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+
+1496045168 source:e:\codeblocks\compiler\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"index3.tab.h"
+	<stdlib.h>
+
+1491737286 source:e:\codeblocks\compiler\test.tab.c
+	<stdio.h>
+	<math.h>
+	"test.tab.h"
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+
+1491748851 e:\codeblocks\compiler\test.tab.h
+
+1491799614 e:\codeblocks\compiler\index2.tab.h
+
+1496041860 source:e:\codeblocks\compiler\index3.tab.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdio.h>
+
+1496045285 e:\codeblocks\compiler\index3.tab.h
+
